@@ -1,0 +1,257 @@
+PS D:\JavaSraddhaDiDurgeshSir> git init
+Initialized empty Git repository in D:/JavaSraddhaDiDurgeshSir/.git/
+PS D:\JavaSraddhaDiDurgeshSir> git add .
+warning: in the working copy of 'DSA_DurgeshSir/.gitattributes', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/1Week 1to6Videos/code/Complex.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/1Week 1to6Videos/code/Student.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/1Week 1to6Videos/code/Test.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/1Week 1to6Videos/code/VariableDataTypeEx.java', LF will be replaced by CRLF the next time Git touches it        
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/misc.xml', LF will be replaced by CRLF the next time Git touches it 
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/modules.xml', LF will be replaced by CRLF the next time Git touches 
+it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/vcs.xml', LF will be replaced by CRLF the next time Git touches it  
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/3_linked_list.iml', LF will be replaced by CRLF the next time Git touches 
+it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/Main.java', LF will be replaced by CRLF the next time Git touches it      
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/Node.java', LF will be replaced by CRLF the next time Git touches it      
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/circular/CircularLinkedList.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/circular/Node.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/doubly/DoublyLinkedLIst.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/doubly/DoublyLinkedListMenu.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/doubly/Node.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/misc.xml', LF will be replaced by CRLF 
+the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/modules.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/vcs.xml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/3_linked_list.iml', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/singly/LinkedList.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/singly/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/singly/Node.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayADT.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayADTImpl.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayExample.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayOperation.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/BinarySearch.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/CheckSorted.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/CountTargetElement.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/LargetElement.java', LF will be replaced by CRLF the next time Git 
+touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/LinearSearch.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/Move0ToLast.java', LF will be replaced by CRLF the next time Git touches it
+ray practice/ReverseArray.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/SecondLarge.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/SumArray.java', LF will be replaced by CRLF the next time Git touches it
+PS D:\JavaSraddhaDiDurgeshSir> git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   DSA_DurgeshSir/.DS_Store
+        new file:   DSA_DurgeshSir/.gitattributes
+        new file:   DSA_DurgeshSir/.gitignore
+        new file:   DSA_DurgeshSir/10StackQueue/CircularQueue2.java
+        new file:   DSA_DurgeshSir/10StackQueue/SimpleQue1.class
+        new file:   DSA_DurgeshSir/10StackQueue/SimpleQue1.java
+        new file:   DSA_DurgeshSir/10StackQueue/SimpleQueue1.class
+        new file:   DSA_DurgeshSir/10StackQueue/SimpleQueue1.java
+        new file:   DSA_DurgeshSir/1Week 1to6Videos/Week1 Introduction to DSA.pdf
+        new file:   DSA_DurgeshSir/1Week 1to6Videos/code/.DS_Store
+        new file:   DSA_DurgeshSir/1Week 1to6Videos/code/Complex.class
+        new file:   DSA_DurgeshSir/1Week 1to6Videos/code/Complex.java
+        new file:   DSA_DurgeshSir/1Week 1to6Videos/code/Student.class
+        new file:   DSA_DurgeshSir/1Week 1to6Videos/code/Student.java
+        new file:   DSA_DurgeshSir/1Week 1to6Videos/code/Test.class
+        new file:   DSA_DurgeshSir/1Week 1to6Videos/code/Test.java
+        new file:   DSA_DurgeshSir/1Week 1to6Videos/code/VariableDataTypeEx.class
+        new file:   DSA_DurgeshSir/1Week 1to6Videos/code/VariableDataTypeEx.java        new file:   DSA_DurgeshSir/1Week 1to6Videos/week1.pptx
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/2_ 50 Array Practice 
+Questions.pdf
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/2_Bineary Search in detail with code.pdf
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/2_Linear Search in detail with code.pdf
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/2_array notes proper.pdf
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/2_array practice 10 questions.pdf
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_circular linked list.pdf
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/.gitignore
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/misc.xml
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/modules.xml
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/vcs.xml
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/3_linked_list.iml
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/Main.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/Main.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/Node.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/Node.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/circular/CircularLinkedList.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/circular/Node.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/doubly/DoublyLinkedLIst.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/doubly/DoublyLinkedListMenu.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/doubly/Node.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/.gitignore
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/misc.xml
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/modules.xml
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/vcs.xml
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/3_linked_list.iml
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/Main.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/Node.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/doubly/DoublyLinkedLIst.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/doubly/DoublyLinkedListMenu.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/doubly/Node.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/singly/LinkedList.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/singly/Main.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/singly/Node.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/singly/LinkedList.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/singly/Main.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/singly/Node.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/ADT and Array.pdf    
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayADT.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayADT.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayADTImpl.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayExample.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayExample.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayOperation.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayOperation.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/BinarySearch.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/BinarySearch.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/CheckSorted.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/CheckSorted.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/CountTargetElement.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/CountTargetElement.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/LargetElement.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/LargetElement.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/LinearSearch.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/LinearSearch.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/Move0ToLast.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/Move0ToLast.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ReverseArray.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ReverseArray.java
+SecondLarge.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/SecondLarge.java
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/SumArray.class
+        new file:   DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/SumArray.java
+
+PS D:\JavaSraddhaDiDurgeshSir> git commit -m " JAVA and DSA "
+[main (root-commit) 8ee51a5]  JAVA and DSA
+ 81 files changed, 1611 insertions(+)
+ create mode 100644 DSA_DurgeshSir/.DS_Store
+ create mode 100644 DSA_DurgeshSir/.gitattributes
+ create mode 100644 DSA_DurgeshSir/.gitignore
+ create mode 100644 DSA_DurgeshSir/10StackQueue/CircularQueue2.java
+ create mode 100644 DSA_DurgeshSir/10StackQueue/SimpleQue1.class
+ create mode 100644 DSA_DurgeshSir/10StackQueue/SimpleQue1.java
+ create mode 100644 DSA_DurgeshSir/10StackQueue/SimpleQueue1.class
+ create mode 100644 DSA_DurgeshSir/10StackQueue/SimpleQueue1.java
+ create mode 100644 DSA_DurgeshSir/1Week 1to6Videos/Week1 Introduction to DSA.pdf
+ create mode 100644 DSA_DurgeshSir/1Week 1to6Videos/code/.DS_Store
+ create mode 100644 DSA_DurgeshSir/1Week 1to6Videos/code/Complex.class
+ create mode 100644 DSA_DurgeshSir/1Week 1to6Videos/code/Complex.java
+ create mode 100644 DSA_DurgeshSir/1Week 1to6Videos/code/Student.class
+ create mode 100644 DSA_DurgeshSir/1Week 1to6Videos/code/Student.java
+ create mode 100644 DSA_DurgeshSir/1Week 1to6Videos/code/Test.class
+ create mode 100644 DSA_DurgeshSir/1Week 1to6Videos/code/Test.java
+ create mode 100644 DSA_DurgeshSir/1Week 1to6Videos/code/VariableDataTypeEx.class
+ create mode 100644 DSA_DurgeshSir/1Week 1to6Videos/code/VariableDataTypeEx.java create mode 100644 DSA_DurgeshSir/1Week 1to6Videos/week1.pptx
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/2_ 50 Array Practice 
+Questions.pdf
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/2_Bineary Search in detail with code.pdf
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/2_Linear Search in detail with code.pdf
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/2_array notes proper.pdf
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/2_array practice 10 questions.pdf
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_circular linked list.pdf
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/.gitignore
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/misc.xml
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/modules.xml
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/.idea/vcs.xml
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/3_linked_list.iml
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/Main.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/Main.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/Node.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/Node.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/circular/CircularLinkedList.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/circular/Node.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/doubly/DoublyLinkedLIst.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/doubly/DoublyLinkedListMenu.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/doubly/Node.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/.gitignore
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/misc.xml
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/modules.xml
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/.idea/vcs.xml
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/3_linked_list.iml
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/Main.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/Node.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/doubly/DoublyLinkedLIst.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/doubly/DoublyLinkedListMenu.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/doubly/Node.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/singly/LinkedList.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/singly/Main.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/out/production/3_linked_list/singly/Node.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/singly/LinkedList.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/singly/Main.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/3_linked_list/singly/Node.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/ADT and Array.pdf    
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayADT.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayADT.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayADTImpl.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayExample.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayExample.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayOperation.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ArrayOperation.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/BinarySearch.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/BinarySearch.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/CheckSorted.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/CheckSorted.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/CountTargetElement.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/CountTargetElement.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/LargetElement.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/LargetElement.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/LinearSearch.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/LinearSearch.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/Move0ToLast.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/Move0ToLast.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ReverseArray.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/SecondLarge.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/SecondLarge.java
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/SumArray.class
+ create mode 100644 DSA_DurgeshSir/YouTube-DSA-Series-main/week2-array practice/SumArray.java
+PS D:\JavaSraddhaDiDurgeshSir> git push
+fatal: No configured push destination.
+ing
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+PS D:\JavaSraddhaDiDurgeshSir> git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository us
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+PS D:\JavaSraddhaDiDurgeshSir> git remote add origin https://github.com/Anika-del/JavaSraddhaDiDurgeshSir.git
+fatal: The current branch main has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream origin main
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+PS D:\JavaSraddhaDiDurgeshSir> git push --set-upstream origin main
+Enumerating objects: 94, done.
+Counting objects: 100% (94/94), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (89/89), done.
+Writing objects: 100% (94/94), 1.24 MiB | 363.00 KiB/s, done.
+Total 94 (delta 16), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (16/16), done.
+To https://github.com/Anika-del/JavaSraddhaDiDurgeshSir.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS D:\JavaSraddhaDiDurgeshSir> 
