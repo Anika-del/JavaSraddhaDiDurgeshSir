@@ -1,0 +1,33 @@
+…or create a new repository on the command line
+echo "# hi" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Anika-del/hi.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/Anika-del/DSA-sraddha-di.git
+git branch -M main
+git push -u origin main
+
+
+
+PS D:\DSA sraddha di> git init
+Reinitialized existing Git repository in D:/DSA sraddha di/.git/
+PS D:\DSA sraddha di> git add .
+PS D:\DSA sraddha di> git commit -m "Scaler Strings"
+[main 3a3f8fa] Scaler Strings
+PS D:\DSA sraddha di> git remote add origin https://github.com/Anika-del/DSA-sraddha-di.git
+error: remote origin already exists.
+PS D:\DSA sraddha di> git push
+Enumerating objects: 139, done.
+Counting objects: 100% (136/136), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (130/130), done.
+Writing objects: 100% (131/131), 2.51 MiB | 157.00 KiB/s, done.
+Total 131 (delta 10), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (10/10), completed with 3 local objects.
+To https://github.com/Anika-del/DSA-sraddha-di.git
+   721e1db..3a3f8fa  main -> main
+PS D:\DSA sraddha di> 
